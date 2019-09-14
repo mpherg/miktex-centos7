@@ -1,0 +1,5 @@
+Build MikTex for CentOS 7.6.1810
+
+You must assign *at least* 8GB RAM to the docker container.
+
+When done, it will leave /miktex.tar.gz (yes, at root of the container).
